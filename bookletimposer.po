@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Konstantin Kuney <kmkuney@gmail.com>, 2024
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-11-25 12:35+0300\n"
+"Last-Translator: Konstantin Kuney <kmkuney@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid ""
+"\n"
+"PyPdfConv - Utility to convert PDF files between diffrents page layouts\n"
+"Copyright (C) 2008-2019 Kjö Hansi Glaz <kjo&a4nancy.net.eu.org>\n"
+"\n"
+"This program is  free software; you can redistribute  it and/or modify\n"
+"it under the  terms of the GNU General Public  License as published by\n"
+"the Free Software Foundation; either  version 3 of the License, or (at\n"
+"your option) any later version.\n"
+"\n"
+"This program  is distributed in the  hope that it will  be useful, but\n"
+"WITHOUT   ANY  WARRANTY;   without  even   the  implied   warranty  of\n"
+"MERCHANTABILITY  or FITNESS  FOR A  PARTICULAR PURPOSE.   See  the GNU\n"
+"General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program.  If not, see <http://www.gnu.org/licenses/>.\n"
+msgstr ""
+"\n"
+"PyPdfConv - Утилита для конвертации PDF-файлов между различными\n"
+" макетами страниц.\n"
+"Авторские права (C) 2008-2019 Kjö Hansi Glaz <kjo&a4nancy.net.eu.org>\n"
+"\n"
+"Эта программа является свободным программным обеспечением; вы\n"
+"можете распространять ее и/или изменять ее  в  соответствии с\n"
+"условиями  GNU  General Public License,  опубликованной  Free\n"
+"Software  Foundation; либо версии 3 лицензии, либо (по вашему\n"
+"выбору) любой более поздней версии.\n"
+"\n"
+"Эта программа распространяется в надежде, что она будет полезна,\n"
+"но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ;  даже  без подразумеваемой  гарантии\n"
+"ТОВАРНОЙ ПРИГОДНОСТИ или ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ.\n"
+"Подробнее см. в GNU General Public License.\n"
+"\n"
+"Вы должны были получить копию GNU General Public License вместе\n"
+"с этой программой. Если нет, см.<http://www.gnu.org/licenses/>.\n"
+
+msgid "%i%%: %s"
+msgstr "%i%% : %s"
+
+msgid "(None)"
+msgstr "(Нет)"
+
+msgid "A file named %s already exist."
+msgstr "Файл с именем %s уже существует."
+
+msgid "Cancel triggered, please wait..."
+msgstr "Отмена активирована, пожалуйста, подождите..."
+
+msgid "Choose file to save"
+msgstr "Выберите файл для сохранения"
+
+msgid "Conversion cancelled"
+msgstr "Конвертация отменена"
+
+msgid "Conversion failed"
+msgstr "Конвертация не удалась"
+
+msgid "Conversion type"
+msgstr "Тип конвертации"
+
+msgid "Convert PDF documents between diffrents page layouts"
+msgstr "Конвертация PDF документов между разными макетами страниц"
+
+msgid "Copy the same group of input pages on one output page"
+msgstr "копировать ту же группу входных страниц на одну выходную страницу"
+
+msgid "Copyright © 2008-2019 kjo@a4nancy.net.eu.org"
+msgstr "Авторские права © 2008-2019 Kjö Hansi Glaz <kjo&a4nancy.net.eu.org>\n"
+"Русский перевод © 2024 Konstantin Kuney <kmkuney@gmail.com>"
+
+msgid "Do you want to replace it?"
+msgstr "Вы хотите его заменить?"
+
+msgid "ERROR: In automatic mode, you must provide a file to process."
+msgstr "ОШИБКА: В автоматическом режиме необходимо предоставить файл для обработки."
+
+msgid "Number of pages in _height"
+msgstr "Количество страниц в _высоту"
+
+msgid "Number of pages in _width"
+msgstr "Количество страниц в _ширину"
+
+msgid "Open input PDF file"
+msgstr "Открыть входной PDF-файл"
+
+msgid "Output _paper format"
+msgstr "Выходной _формат бумаги"
+
+msgid ""
+"Produce a _booklet\n"
+"out of a linear document"
+msgstr ""
+"Создать _буклет\n"
+"из линейного документа"
+
+msgid ""
+"Produce a _linear document \n"
+"out of a booklet"
+msgstr ""
+"Создать _линейный документ \n"
+"из буклета"
+
+msgid ""
+"Put _multiple input pages \n"
+"on one output sheet"
+msgstr ""
+"Поместить _несколько входных страниц \n"
+"на один выходной лист"
+
+msgid "The layout %s is incompatible with the input page orientation"
+msgstr "Макет %s несовместим с ориентацией входной страницы"
+
+msgid "The page format \"%s\" is unknown"
+msgstr "Формат страницы \"%s\" неизвестен"
+
+msgid "Two-sided _flip"
+msgstr "_Переворот по короткой/длинной стороне"
+
+msgid "Unable to display help: %s"
+msgstr "Невозможно отобразить справку: %s"
+
+msgid "User interruption"
+msgstr "Прерывание работы пользователя"
+
+msgid "_Copy the same group of input pages on one output page"
+msgstr "_Копировать ту же группу входных страниц на одну выходную страницу"
+
+msgid "_Input file"
+msgstr "_Исходный PDF-файл"
+
+msgid "_Output file"
+msgstr "_Сохранить в PDF-файл"
+
+msgid ""
+"automatic conversion (don't show the user interface). At least input file "
+"must be defined."
+msgstr ""
+"автоматическое преобразование (не отображать пользовательский интерфейс). " "Должен быть определен хотя бы входной файл."
+
+msgid "convert a booklet to single pages"
+msgstr "конвертировать буклет в отдельные страницы"
+
+msgid "creating page %i"
+msgstr "создание страницы %i"
+
+msgid "do not overwrite output file if it exists"
+msgstr "не перезаписывать выходной файл, если он существует"
+
+msgid "don't do any reorganisation (will only scale and assemble pages)"
+msgstr "не проводить никакой реорганизации (только масштабировать и собирать страницы)"
+
+msgid "done"
+msgstr "выполнено"
+
+msgid "extracting page %i"
+msgstr "извлечение страницы %i"
+
+msgid "long-edge flip"
+msgstr "переворот по длинной стороне"
+
+msgid "makes a booklet"
+msgstr "создать буклет"
+
+msgid "number of pages per sheet, in the format HORIZONTALxVERTICAL, e.g. 2x1"
+msgstr "количество страниц на листе, в формате ПО ГОРИЗОНТАЛИxПО ВЕРТИКАЛИ, например 2x1"
+
+msgid "output PDF file"
+msgstr "выходной PDF-файл"
+
+msgid "output page format, e.g. A4 or A3R"
+msgstr "выходной формат страницы, например A4 или A3"
+
+msgid "short-edge flip"
+msgstr "переворот по короткой стороне"
+
+msgid "shows the user interface (default)."
+msgstr "отображать пользовательский интерфейс (по-умолчанию)"
+
+msgid "writing converted file"
+msgstr "запись конвертированного файла"
