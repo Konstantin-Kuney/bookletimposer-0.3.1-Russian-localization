@@ -2,6 +2,10 @@
 -----------------------------------------------
 bookletimposer 0.3.1 Russian localization
 
+![Снимок экрана от 2024-12-13 12-31-41](https://github.com/user-attachments/assets/50fcf3a0-6caa-4201-aafe-5439479685ae)
+
+![Снимок экрана от 2024-12-13 12-42-18](https://github.com/user-attachments/assets/955c5d02-8ef4-4152-a001-9a3819bedb4b)
+
 ## О программе:
 ---------------
 
