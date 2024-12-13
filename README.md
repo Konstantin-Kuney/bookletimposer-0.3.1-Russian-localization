@@ -23,6 +23,7 @@ $ sudo apt-get install bookletimposer
 * bookletimposer.mo - файл переводов для bookletimposer 0.3.1 (скомпилированный)
 * install.sh - скрипт для установки русификатора bookletimposer 0.3.1
 * uninstall.sh - скрипт для удаления русификатора bookletimposer 0.3.1
+* ChangeLog - История изменений
 * README.md - Данный файл описания
 
 ## Установка/Удаление русификатора:
